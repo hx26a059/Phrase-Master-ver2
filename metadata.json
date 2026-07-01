@@ -1,0 +1,8 @@
+{
+  "name": "フレーズ・マスター (Phrase Master)NoAPI【ver 07011634】",
+  "description": "海外でのトラブル対応知識と英語表現の引き出しを増やすための教育型シミュレーションゲーム",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
